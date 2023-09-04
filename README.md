@@ -44,6 +44,40 @@
 
 <br />
 
+### Buzzwords I've been working with (and I can talk about):
+
+- DDD
+- CQRS
+- Hexagonal architecture
+- Event Sourcing
+- Event-driven architecture
+- Microservices
+- REST
+- MVC/MVP/MVVM
+- SOLID
+- TDD
+- BDD
+- CI/CD
+- Agile
+- Scrum
+- Kanban
+- XP
+- Pair programming
+- Mob programming
+- Clean code
+- Clean architecture
+- Onion architecture
+- Ports & Adapters architecture
+- Design patterns
+- Refactoring
+- Code smells
+
+<br />
+
+---
+
+<br />
+
 ## Readings
 
 📖 Current:
