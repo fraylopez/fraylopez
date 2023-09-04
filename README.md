@@ -55,22 +55,16 @@
 - Microservices
 - REST
 - MVC/MVP/MVVM
-- SOLID
-- TDD
-- BDD
-- CI/CD
-- Agile
-- Scrum
-- Kanban
-- XP
-- Pair programming
-- Mob programming
-- Clean code
-- Clean architecture
-- Onion architecture
 - Design patterns
-- Refactoring
-- Code smells
+- SOLID
+- XP
+- RUP
+- Pair/Mob programming
+- Clean code / Clean architecture
+- Refactoring, Code smells
+- TDD, BDD
+- CI/CD
+- Agile, Scrum, Kanban
 
 <br />
 
@@ -96,7 +90,8 @@
 📚 Others:
 - TDD by Example; Kent Beck.
 - The Humble Programmer; Edsger W. Dijkstra.
-- The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin.
+- Clean Code: A Handbook of Agile Software Craftsmanship; Robert Martin.
+- Clean Architecture; Robert Martin.
 
 
 <br />
