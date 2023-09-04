@@ -23,7 +23,8 @@
 <br />
 
 ### Technologies I'm used to
-
+---
+<br />
 <img align="left" width="26px" height="26px" title="NodeJS" alt="NodeJS" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 <img align="left" width="26px" height="26px" title="TypeScript" alt="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 <img align="left" width="26px" height="26px" title="C#" alt="C#" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
@@ -40,11 +41,11 @@
 
 <br />
 
----
 
 <br />
 
 ### Buzzwords I've been working with (and I can talk about):
+---
 
 - DDD
 - CQRS
@@ -67,16 +68,12 @@
 - Clean code
 - Clean architecture
 - Onion architecture
-- Ports & Adapters architecture
 - Design patterns
 - Refactoring
 - Code smells
 
 <br />
 
----
-
-<br />
 
 ## Readings
 
@@ -101,8 +98,6 @@
 - The Humble Programmer; Edsger W. Dijkstra.
 - The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin.
 
-
----
 
 <br />
 
