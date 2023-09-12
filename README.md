@@ -1,4 +1,4 @@
-### The name is [Victor Moreno Gomez [linkedin]! 👋
+### My name is Victor Moreno Gomez [linkedin]! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/vicmogo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%vicmogo&screen_name=vicmogo)
 
@@ -22,7 +22,7 @@
 
 <br />
 
-### Technologies I'm used to
+### Technologies I'm used to work with:
 ---
 <br />
 <img align="left" width="26px" height="26px" title="NodeJS" alt="NodeJS" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
