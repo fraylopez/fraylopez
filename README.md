@@ -74,6 +74,8 @@
 📖 Current:
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 - Extreme Programming Explained (2nd edition); Kent Beck.
+- Team of Teams: New Rules of Engagement for a Complex World:  General Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
+
 
 📕 Latest:
 - Functional Programming in C#; Enrico Buonanno.
