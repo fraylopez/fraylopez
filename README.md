@@ -94,6 +94,7 @@
 - The Humble Programmer; Edsger W. Dijkstra.
 - Clean Code: A Handbook of Agile Software Craftsmanship; Robert Martin.
 - Clean Architecture; Robert Martin.
+- Professor Frisby’s Mostly Adequate Guide To Functional Programming
 
 
 <br />
