@@ -74,15 +74,16 @@
 📖 Current:
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 - Extreme Programming Explained (2nd edition); Kent Beck.
-- Team of Teams: New Rules of Engagement for a Complex World:  General Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
-
+- Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations;  Nicole Forsgren PhD (Autor), Jez Humble (Autor), Gene Kim (Autor)
 
 📕 Latest:
 - Functional Programming in C#; Enrico Buonanno.
+- Team of Teams: New Rules of Engagement for a Complex World;  General Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
 
 🔍 Next:
 - The Mythical Man-Month; Fred Brooks.
 - Explore It!; Elisabeth Hendrickson.
+- Team Topologies: Organizing Business and Technology Teams for Fast Flow;  Matthew Skelton, Manuel Pais 
 
 💎 Favourite:
 - Domain-Driven Design; Eric Evans.
