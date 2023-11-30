@@ -74,11 +74,12 @@
 📖 Current:
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 - Extreme Programming Explained (2nd edition); Kent Beck.
-- Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations;  Nicole Forsgren PhD (Autor), Jez Humble (Autor), Gene Kim (Autor)
+
 
 📕 Latest:
 - Functional Programming in C#; Enrico Buonanno.
 - Team of Teams: New Rules of Engagement for a Complex World;  General Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
+- Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations;  Nicole Forsgren PhD (Autor), Jez Humble (Autor), Gene Kim (Autor)
 
 🔍 Next:
 - The Mythical Man-Month; Fred Brooks.
