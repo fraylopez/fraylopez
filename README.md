@@ -28,7 +28,7 @@
 <img align="left" width="26px" height="26px" title="NodeJS" alt="NodeJS" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 <img align="left" width="26px" height="26px" title="TypeScript" alt="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 <img align="left" width="26px" height="26px" title="C#" alt="C#" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
-<img align="left" width="24px" height="28px" title="Elixir" alt="Elixir" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" />
+<img align="left" width="28px" height="26px" title="Elixir" alt="Elixir" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" />
 <img align="left" width="26px" height="26px" title="VSCode" alt="VSCode" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
 <img align="left" width="26px" height="26px" title="MochaJS" alt="MochaJS" src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" />
 <img align="left" width="26px" height="26px" title="MongoDB" alt="MongoDB" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
