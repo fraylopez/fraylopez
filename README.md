@@ -1,4 +1,4 @@
-### My name is Victor Moreno Gomez [linkedin]! 👋
+###  Hi! My name is Víctor Moreno Gómez [linkedin]! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/vicmogo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%vicmogo&screen_name=vicmogo)
 
@@ -28,6 +28,7 @@
 <img align="left" width="26px" height="26px" title="NodeJS" alt="NodeJS" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 <img align="left" width="26px" height="26px" title="TypeScript" alt="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 <img align="left" width="26px" height="26px" title="C#" alt="C#" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
+<img align="left" width="24px" height="26px" title="Elixir" alt="UML" src="https://elixir-lang.org/images/logo/logo.png" />
 <img align="left" width="26px" height="26px" title="VSCode" alt="VSCode" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
 <img align="left" width="26px" height="26px" title="MochaJS" alt="MochaJS" src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" />
 <img align="left" width="26px" height="26px" title="MongoDB" alt="MongoDB" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
