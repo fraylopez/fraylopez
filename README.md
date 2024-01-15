@@ -24,7 +24,6 @@
 
 ### Technologies I'm used to work with:
 ---
-<br />
 <img align="left" width="26px" height="26px" title="NodeJS" alt="NodeJS" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 <img align="left" width="26px" height="26px" title="TypeScript" alt="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 <img align="left" width="26px" height="26px" title="C#" alt="C#" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
