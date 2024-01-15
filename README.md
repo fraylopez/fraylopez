@@ -28,7 +28,7 @@
 <img align="left" width="26px" height="26px" title="NodeJS" alt="NodeJS" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 <img align="left" width="26px" height="26px" title="TypeScript" alt="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 <img align="left" width="26px" height="26px" title="C#" alt="C#" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
-<img align="left" width="24px" height="26px" title="Elixir" alt="Elixir" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" />
+<img align="left" width="24px" height="28px" title="Elixir" alt="Elixir" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" />
 <img align="left" width="26px" height="26px" title="VSCode" alt="VSCode" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
 <img align="left" width="26px" height="26px" title="MochaJS" alt="MochaJS" src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" />
 <img align="left" width="26px" height="26px" title="MongoDB" alt="MongoDB" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
@@ -38,7 +38,7 @@
 <img align="left" width="26px" height="26px" title="Slack" alt="Slack" src="https://static.surveysparrow.com/site/assets/integrations/inner/slack.png" />
 <img align="left" width="26px" height="26px" title="MarkDown" alt="MarkDown" src="https://user-images.githubusercontent.com/11347395/130453553-322c1932-e148-461e-b62f-c103f564b9b5.png" />
 <img align="left" width="26px" height="26px" title="PlantUML" alt="PlantUML" src="https://plugins.jetbrains.com/files/7017/122599/icon/pluginIcon.svg" />
-<img align="left" width="24px" height="26px" title="UML" alt="UML" src="https://joanpaon.files.wordpress.com/2013/05/uml-symbol.gif" />
+<img align="left" width="26px" height="26px" title="UML" alt="UML" src="https://joanpaon.files.wordpress.com/2013/05/uml-symbol.gif" />
 
 <br />
 
