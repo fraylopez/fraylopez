@@ -75,6 +75,8 @@
 [I try to keep my Goodreads updated!](https://www.goodreads.com/review/list/101398022-v-ctor?order=d&ref=nav_mybooks&shelf=software&sort=rating)
 
 💎 Favourite:
+- Tidy First; Kent Beck
+- Extreme Programming Explained; Kent Beck
 - Domain-Driven Design; Eric Evans
 - Refactoring: Improving the Design of Existing Code; Martin Fowler
 - Writing Effective Use Cases; Alistair Cockburn
