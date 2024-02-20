@@ -72,7 +72,7 @@
 ### Readings
 
 📖 Current:
-[I try to keep my Goodnotes updated!](https://www.goodreads.com/review/list/101398022-v-ctor?order=d&ref=nav_mybooks&shelf=software&sort=rating)
+[I try to keep my Goodreads updated!](https://www.goodreads.com/review/list/101398022-v-ctor?order=d&ref=nav_mybooks&shelf=software&sort=rating)
 
 💎 Favourite:
 - Domain-Driven Design; Eric Evans
