@@ -1,4 +1,4 @@
-###  👋Hi! My name is Víctor Moreno Gómez! 
+###  👋Hi, my name is Víctor Moreno Gómez! 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/vicmogo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%vicmogo&screen_name=vicmogo)
 
