@@ -1,17 +1,17 @@
-###  Hi! My name is Víctor Moreno Gómez [linkedin]! 👋
+###  👋Hi! My name is Víctor Moreno Gómez [linkedin]! 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/vicmogo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%vicmogo&screen_name=vicmogo)
 
-## About me
+### About me
 
-🏳️‍🌈 He/Him.
+🏳️‍🌈 He/Him
 <br />
-🗺 Spanish, Catalan, English.
+🗺 Spanish, Catalan, English
 
-- 👨‍💻👌🏼 Software engineer.
-- 🏗️🏭 Focus on software architecture & development processes.
-- 🏛️🗼 Strong interest in well-known, established design principles.
-- 👥🤝 Team culture as a cornerstone.
+- 👨‍💻👌🏼 Software engineer
+- 🏗️🏭 Focus on software architecture & development processes
+- 🏛️🗼 Strong interest in well-known, established design principles
+- 👥🤝 Team culture as a cornerstone
 
 ### Contact me!
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -22,7 +22,7 @@
 
 <br />
 
-### Technologies I'm used to work with:
+### Technologies I'm used to working with:
 ---
 <img align="left" width="26px" height="26px" title="NodeJS" alt="NodeJS" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 <img align="left" width="26px" height="26px" title="TypeScript" alt="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
@@ -44,7 +44,7 @@
 
 <br />
 
-### Buzzwords I've been working with (and I can talk about):
+### Buzzwords I've been working with (and I can talk about)
 ---
 
 - DDD
@@ -69,21 +69,21 @@
 <br />
 
 
-## Readings
+### Readings
 
 📖 Current:
 [I try to keep my Goodnotes updated!](https://www.goodreads.com/review/list/101398022-v-ctor?order=d&ref=nav_mybooks&shelf=software&sort=rating)
 
 💎 Favourite:
-- Domain-Driven Design; Eric Evans.
-- Refactoring: Improving the Design of Existing Code; Martin Fowler.
-- Writing Effective Use Cases; Alistair Cockburn.
+- Domain-Driven Design; Eric Evans
+- Refactoring: Improving the Design of Existing Code; Martin Fowler
+- Writing Effective Use Cases; Alistair Cockburn
 
 📚 Others:
-- TDD by Example; Kent Beck.
-- The Humble Programmer; Edsger W. Dijkstra.
-- Clean Code: A Handbook of Agile Software Craftsmanship; Robert Martin.
-- Clean Architecture; Robert Martin.
+- TDD by Example; Kent Beck
+- The Humble Programmer; Edsger W. Dijkstra
+- Clean Code: A Handbook of Agile Software Craftsmanship; Robert Martin
+- Clean Architecture; Robert Martin
 - Professor Frisby’s Mostly Adequate Guide To Functional Programming
 
 
